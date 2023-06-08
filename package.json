@@ -1,0 +1,27 @@
+{
+  "name": "assignment_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uttamkrshaw/Assignment_Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uttamkrshaw/Assignment_Backend/issues"
+  },
+  "homepage": "https://github.com/uttamkrshaw/Assignment_Backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "mongoose": "^7.2.2"
+  }
+}
